@@ -1,8 +1,32 @@
 /* HEADER */
 
+header {
+  height: 100px;
+  width: 100%;
+}
+
 /* HEADER TOP */
 
+.dm-header-top {
+  height: 30px;
+  background-color: black;
+}
+
+.sony-logo {
+  height: 100%;
+}
+
+.sony-logo img {
+  height: 100%;
+  padding: 8px;
+}
+
 /* HEADER BOTTOM */
+
+.dm-header-bottom {
+  height: 70px;
+  background-color: white;
+}
 
 /* JUMBOTRON */
 
