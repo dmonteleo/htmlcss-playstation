@@ -3,7 +3,7 @@ body {
 }
 
 .dm-general-container {
-  min-height: 300px;
-  width: 90%;
+  /* min-height: 300px; */
+  width: 93%;
   margin: 0 auto;
 }

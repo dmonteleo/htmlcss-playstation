@@ -29,13 +29,31 @@ header {
   padding: 0 15px;
 }
 
-
-
 /* JUMBOTRON */
 
 /* JUMBOTRON TOP */
 
+.dm-jumbotron-top {
+  height: 500px;
+  background-image: url(/assets/img/jumbo-bg.png);
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.jumbotron-text {
+  padding-top: 225px;
+}
+
+.jumbotron-text p {
+  margin: 35px 0;
+}
+
 /* JUMBOTRON BOTTOM */
+
+.dm-jumbotron-bottom {
+  height: 150px;
+}
 
 /* SECTION 1 */
 
