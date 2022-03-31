@@ -2,7 +2,7 @@ body {
   font-family: Helvetica, Arial, sans-serif;
 }
 
-.dm-general-container {
+.dm-container {
   /* min-height: 300px; */
   width: 93%;
   margin: 0 auto;
