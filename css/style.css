@@ -26,7 +26,10 @@ header {
 .dm-header-bottom {
   height: 70px;
   background-color: white;
+  padding: 0 15px;
 }
+
+
 
 /* JUMBOTRON */
 
