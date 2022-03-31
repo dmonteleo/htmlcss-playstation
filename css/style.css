@@ -88,6 +88,23 @@ header {
 
 /* SECTION 2 */
 
+.dm-section-2 {
+  height: 500px;
+  background-image: url('/assets/img/it-takes-two-hero-banner-desktop.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  overflow-y: scroll;
+}
+
+.dm-section-2-top, 
+.dm-section-2-bottom {
+  height: 250px;
+}
+
+.dm-section-2-top img {
+  height: 100%;
+}
 /* SECTION 3 */
 
 /* SECTION 4 */
