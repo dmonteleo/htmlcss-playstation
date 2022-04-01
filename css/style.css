@@ -97,15 +97,18 @@ header {
   overflow-y: scroll;
 }
 
-.dm-section-2-top, 
-.dm-section-2-bottom {
-  height: 250px;
-}
-
-.dm-section-2-top img {
+.dm-section-2 .dm-container {
   height: 100%;
 }
+
+.dm-section-2 .dm-container img {
+  height: 50%;
+  margin-top: 30px;
+}
+
 /* SECTION 3 */
+
+
 
 /* SECTION 4 */
 
