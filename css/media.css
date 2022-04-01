@@ -21,3 +21,11 @@
   }
 }
 
+/* SECTION 5 */
+
+@media screen and (max-width: 768px) {
+  .dm-section-5 .dm-section-5-right img {
+    display: none;
+  }
+  
+}
