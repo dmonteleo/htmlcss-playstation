@@ -124,6 +124,15 @@ header {
 
 /* SECTION 4 */
 
+.dm-section-4 {
+  min-height: 500px;
+  /* background-color: red; */
+}
+
+.dm-section-4 img {
+  width: 100%;
+}
+
 /* SECTION 5 */
 
 /* SECTION 6 */
