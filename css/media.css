@@ -1,0 +1,23 @@
+/* SECTION 3 */
+
+@media screen and (min-width: 1401px) {
+  .dm-section-3 .dm-container .box-cards .container .row .col {
+    width: calc(100% / 6);
+    /* background-color: yellow; */
+  }
+}
+
+@media screen and (max-width: 1400) {
+  .dm-section-3 .dm-container .box-cards .container .row .col {
+    width: calc(100% / 3);
+    /* background-color: red; */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .dm-section-3 .dm-container .box-cards .container .row .col {
+    width: calc(100% / 2);
+    /* background-color: blue; */
+  }
+}
+
