@@ -192,3 +192,11 @@ header {
 
 /* FOOTER */
 
+footer {
+  background-color: #00439c;
+}
+
+.globe-footer {
+  width: 50px;
+} 
+
