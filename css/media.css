@@ -27,5 +27,14 @@
   .dm-section-5 .dm-section-5-right img {
     display: none;
   }
-  
 }
+
+/* SECTION 7 */
+
+@media screen and (max-width: 768px) {
+  .dm-section-7 .dm-section-7-right img {
+    display: none;
+  }
+}
+
+

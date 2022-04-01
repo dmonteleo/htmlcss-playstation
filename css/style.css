@@ -166,6 +166,19 @@ header {
 
 /* SECTION 7 */
 
+.dm-section-7 {
+  min-height: 300px;
+  background-color: #161c3b;
+}
+
+.dm-section-7 .dm-section-7-left img {
+  width: 100px;
+}
+
+.dm-section-7 .dm-section-7-right img {
+  width: 100%;
+}
+
 /* SECTION 8 */
 
 /* FOOTER */
