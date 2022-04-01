@@ -181,5 +181,14 @@ header {
 
 /* SECTION 8 */
 
+.dm-section-8 img {
+  width: 100%;
+  margin: 15px 0;
+}
+
+.dm-section-8 .row .col-12 {
+  text-align: center;
+}
+
 /* FOOTER */
 
